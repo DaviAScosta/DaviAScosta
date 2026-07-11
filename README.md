@@ -1,12 +1,14 @@
 <div align="center">
 
-# Olá, eu sou o Davi Almeida
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=39D353&center=true&vCenter=true&width=640&lines=Ol%C3%A1%2C+eu+sou+o+Davi+Almeida;Backend+Developer+@+NTT+DATA;Django+%C2%B7+PL%2FSQL+%C2%B7+Docker+%C2%B7+Pipelines" alt="Typing SVG"/>
 
-### Desenvolvedor de software · Backend & Full Stack
+<br/>
 
+[![NTT DATA](https://img.shields.io/badge/NTT_DATA-0066CC?style=for-the-badge&logoColor=white)](https://www.nttdata.com/)
+[![TIM Brasil](https://img.shields.io/badge/TIM_Brasil-004691?style=for-the-badge&logoColor=white)](https://www.tim.com.br/)
 [![GitHub followers](https://img.shields.io/github/followers/DaviAScosta?style=for-the-badge&logo=github&color=181717)](https://github.com/DaviAScosta?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davialmeida)
-[![Email](https://img.shields.io/badge/Email-contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davi@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/almdav/)
+[![Email](https://img.shields.io/badge/Email-davialmeida0482@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davialmeida0482@gmail.com)
 
 </div>
 
@@ -14,86 +16,138 @@
 
 ## Sobre mim
 
-Desenvolvedor focado em construir software **bem estruturado, seguro e fácil de manter**.
+**Backend Developer** na **[NTT DATA](https://www.nttdata.com/)**, com **mais de 2 anos** atuando no atendimento à **[TIM Brasil](https://www.tim.com.br/)** como cliente principal.
 
-Atualmente desenvolvo o **[CountSys](https://github.com/DaviAScosta/CountSys)** — plataforma de gestão operacional interna para escritórios de contabilidade, com arquitetura modular (DDD), API REST e stack moderna.
+Minha **habilidade primária é backend** — Django, PL/SQL, APIs e arquitetura de software. Também trabalho com **Next.js** quando o projeto exige camada web, além de **pipelines de aplicações** e **Docker** no dia a dia.
 
 ```text
-🎯 Foco atual  →  CountSys (Sprint 0 — infraestrutura e auth)
-🏗️  Arquitetura  →  Monólito modular · DDD · Clean Architecture
-🌎 Idiomas      →  Português (nativo) · Inglês (intermediário)
+🏢 Empresa      →  NTT DATA
+📡 Cliente      →  TIM Brasil
+⏱️  Experiência  →  +2 anos no contrato
+🎯 Foco         →  Backend (Django · PL/SQL · APIs · arquitetura)
+🧩 Complemento  →  Next.js · pipelines · Docker
+📂 Domínio      →  Telecom · automações · inventário · sistemas corporativos
 ```
 
 ---
 
-## Stack principal
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="DRF"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
----
-
-## Projeto em destaque
-
-<a href="https://github.com/DaviAScosta/CountSys">
-  <img align="right" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=DaviAScosta&repo=CountSys&theme=tokyonight&hide_border=true&border_radius=12" alt="CountSys"/>
-</a>
-
-**[CountSys](https://github.com/DaviAScosta/CountSys)** — gestão operacional interna para contabilidade.
+## Experiência
 
 | | |
 |---|---|
-| **O que faz** | Empresas, obrigações, tarefas, documentos, workflow e auditoria |
-| **O que não é** | ERP contábil — não substitui software fiscal |
-| **Stack** | Django · DRF · Next.js · PostgreSQL · Redis · MinIO · Celery |
-| **Arquitetura** | Monólito modular · DDD · API First · Event-driven onde faz sentido |
+| **Cargo** | Desenvolvedor de Software |
+| **Empresa** | NTT DATA |
+| **Cliente** | TIM Brasil |
+| **Tempo** | +2 anos |
+| **Foco** | Backend · pipelines · automações · inventário de telecom |
 
-<br clear="right"/>
+### O que faço no dia a dia
+
+- **Backend** — APIs, regras de negócio, integrações e evolução de sistemas
+- **Pipelines de aplicações** — build, deploy e automação de entregas
+- **Docker** — ambientes containerizados no fluxo de desenvolvimento
+- **Automações** de processos operacionais
+- Soluções para **inventário de telecomunicações**
+- **Next.js** quando necessário na camada frontend
 
 ---
 
-## Estatísticas do GitHub
+## Skills
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DaviAScosta&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-streak-stats.demolab.com/?user=DaviAScosta&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAScosta&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages"/>
+<img src="https://skillicons.dev/icons?i=python,django,docker,postgres,git,github,linux,js,ts,nextjs,vscode&perline=6" alt="Skills"/>
 
 </div>
 
+### Backend *(primário)*
+
+| Área | Tecnologias |
+|------|-------------|
+| Linguagens | Python, PL/SQL |
+| Frameworks | Django, Django REST Framework |
+| Banco de dados | Oracle (PL/SQL), PostgreSQL |
+| APIs | REST, integrações e serviços corporativos |
+| Arquitetura | Clean Architecture, DDD, sistemas modulares |
+
+### DevOps & Pipelines
+
+| Área | Tecnologias |
+|------|-------------|
+| Containers | **Docker** (uso diário) |
+| Pipelines | CI/CD, build e deploy de aplicações |
+| Versionamento | Git, GitHub, branches e PRs |
+| Ambiente | Linux, VS Code |
+
+### Frontend *(complementar)*
+
+| Área | Tecnologias |
+|------|-------------|
+| Core | Next.js, React, TypeScript |
+| Uso | interfaces web corporativas quando o projeto demanda |
+| Perfil | backend-first — frontend como suporte à entrega completa |
+
+### Automação & Telecom
+
+| Área | Experiência |
+|------|-------------|
+| Automações | scripts, rotinas e fluxos operacionais automatizados |
+| Inventário | sistemas de inventário de telecomunicações |
+| Domínio | processos e necessidades do setor de telecom (TIM Brasil) |
+
+---
+
+## Como trabalho
+
+```text
+✅ Backend sólido como base de qualquer entrega
+✅ Pipelines e Docker integrados ao fluxo de desenvolvimento
+✅ Entender o contexto de negócio antes de implementar
+✅ Código legível, organizado e fácil de manter
+✅ Arquitetura pensada para evolução e manutenção
+✅ Automação quando elimina retrabalho manual
+```
+
+---
+
+## Soft skills
+
+| | |
+|---|---|
+| **Experiência corporativa** | +2 anos em ambiente de grande porte (NTT DATA × TIM) |
+| **Domínio de negócio** | Telecom, inventário e processos operacionais |
+| **Colaboração** | Trabalho em squad, alinhamento com time e cliente |
+| **Resolução de problemas** | investigação, debug e entrega com foco em causa raiz |
+| **Adaptabilidade** | evolução de sistemas legados e criação de soluções novas |
+
+---
+
+## Em constante evolução
+
+- Arquitetura de software (Clean Architecture, DDD, monólito modular)
+- Pipelines de aplicações e entrega contínua
+- Otimização de queries e rotinas PL/SQL
+- Next.js e integração backend ↔ frontend
+
+---
+
+## GitHub
+
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DaviAScosta&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribuições" alt="Activity Graph"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DaviAScosta&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-streak-stats.demolab.com/?user=DaviAScosta&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" alt="GitHub Streak"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAScosta&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&count_private=true" alt="Top Languages"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DaviAScosta&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribui%C3%A7%C3%B5es" alt="Activity Graph"/>
 
-<!-- snake -->
+<br/><br/>
+
 <img src="https://raw.githubusercontent.com/DaviAScosta/DaviAScosta/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 </div>
-
----
-
-## O que estou aprendendo / explorando
-
-- Arquitetura de software (DDD, Clean Architecture, modular monolith)
-- RBAC, auditoria e segurança em APIs
-- Preparação para evolução multi-tenant (SaaS)
 
 ---
 
@@ -101,7 +155,8 @@ Atualmente desenvolvo o **[CountSys](https://github.com/DaviAScosta/CountSys)** 
 
 **Obrigado pela visita!**
 
-Se o CountSys ou algo aqui te interessou, deixa uma ⭐ — ajuda demais.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-almdav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/almdav/)
+[![Email](https://img.shields.io/badge/Email-davialmeida0482@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davialmeida0482@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=DaviAScosta&label=Profile%20views&color=0e1117&style=for-the-badge" alt="Profile views"/>
 
